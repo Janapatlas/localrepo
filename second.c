@@ -5,6 +5,6 @@ int main( void){
     printf("the number is even");
     else
     printf("the number is odd");
-    printf("all good ");
+    printf("all good man ");
 return 0;
 }
