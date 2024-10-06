@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    /* new pattten program*/
     char arr[]={'w','e','l','c','o','m','e','t','o','z','o','h','o','c','o','r','p','o','r','a','t','i','o','n','s'};
     int n=sizeof(arr)/sizeof(arr[0]);
     int i=0,j=0,k=n-1;
